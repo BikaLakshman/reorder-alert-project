@@ -1,0 +1,27 @@
+item_id,item_name,category,stock_on_hand,avg_weekly_sales,lead_time_days
+1000,Cereal,Grocery,68,91,7
+1001,Pasta,Grocery,58,41,3
+1002,Canned Soup,Grocery,429,96,14
+1003,Granola Bars,Grocery,0,21,3
+1004,Coffee,Grocery,8,13,5
+1005,Peanut Butter,Grocery,270,74,14
+1006,Paper Towels,Household,151,35,14
+1007,Laundry Detergent,Household,88,63,14
+1008,Trash Bags,Household,219,45,3
+1009,Dish Soap,Household,519,107,10
+1010,Sponges,Household,92,53,5
+1011,USB Cable,Electronics,223,107,3
+1012,Earbuds,Electronics,38,58,7
+1013,Phone Charger,Electronics,144,87,3
+1014,HDMI Cable,Electronics,289,103,3
+1015,Batteries,Electronics,32,58,7
+1016,Socks,Apparel,441,116,7
+1017,T-Shirt,Apparel,102,83,3
+1018,Hoodie,Apparel,60,15,7
+1019,Baseball Cap,Apparel,102,20,3
+1020,Gloves,Apparel,100,58,7
+1021,Board Game,Toys,68,30,5
+1022,Puzzle,Toys,159,95,3
+1023,Action Figure,Toys,334,87,14
+1024,Plush Toy,Toys,159,103,10
+1025,Card Game,Toys,98,58,14
